@@ -1,7 +1,3 @@
-Here is a **clean, corrected, and well-written README** with **improved language** and **consistent information**, suitable for submission or GitHub.
-
----
-
 # Prodigy_ML_01
 
 ## House Price Prediction Using Linear Regression
