@@ -125,7 +125,9 @@ Kaggle – Leap Gesture Recognition
 ## 👤 Intern Details
 
 **Name:** Gaurav Kene
+
 **Internship:** Machine Learning Intern
+
 **Organization:** Prodigy Infotech
 
 ---
